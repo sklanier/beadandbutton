@@ -1,0 +1,57 @@
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="beadandbuttonnews.html" resolutions="1x" timestamp="1507853004293">
+  <folder name="css">
+    <file name="site_global.css" crc="4269068054"/>
+    <file name="master_a-master.css" crc="434299902" ref="index"/>
+    <file name="index.css" crc="343252104" ref="index"/>
+    <file name="iefonts_index.css" crc="131934025" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="17924269" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="278381782" ref="index"/>
+    <file name="require.js" crc="3861931657" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="layer 14-crop-u275.jpg" crc="4220204668" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bead - button newsletter-crop-u339.png" crc="4231634962" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bead - button newsletter-crop-u349.png" crc="4177922863" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bead - button newsletter-layer 6c.png" crc="252237500" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bead - button newsletter-layer 8c.png" crc="4060174141" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bead - button newsletter-crop-u442.png" crc="129758723" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bead - button newsletter-crop-u462.png" crc="96336727" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bead - button newsletter-crop-u452.png" crc="129758723" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bead - button newsletter-crop-u429.png" crc="446007354" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vector smart object people.png" crc="378701961" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vector smart object book.png" crc="4282694454" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bead - button newsletter-crop-u598.png" crc="3830258240" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="layer 14-crop-u292.jpg" crc="4220204668" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="169976533" seo="true" mt="1507852277757" redirect="true"/>
+</manifest>
